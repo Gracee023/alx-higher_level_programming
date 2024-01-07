@@ -211,7 +211,6 @@ You are allowed to use the C standard library
 Your shared library will be compiled with this command line: gcc -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 102-python.c
 
 Repo:
-
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: 102-python.c
