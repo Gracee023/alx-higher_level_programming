@@ -1,5 +1,6 @@
 0x0E. SQL - More queries
 
+
 Resources
 Read or watch:
 
