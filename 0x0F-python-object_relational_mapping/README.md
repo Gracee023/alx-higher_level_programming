@@ -20,7 +20,6 @@ Indeed, all of them have the same type of syntax, but not always. Please read tu
 
 
 Resources
-
 Read or watch:
 Object-relational mappers
 mysqlclient/MySQLdb documentation (please don’t pay attention to _mysql)
