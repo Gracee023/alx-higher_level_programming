@@ -83,6 +83,7 @@ $ python3
 (2, 0, 3, 'final', 0)
 Install SQLAlchemy module version 1.4.x
 $ sudo pip3 install SQLAlchemy
+
 ...
 $ python3
 >>> import sqlalchemy
